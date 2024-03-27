@@ -7,10 +7,10 @@ The optimization pipeline performed is as follows:
 
 **Contents:**
 - [Pre-Requisites]([TEMPLATE]#Pre-Requisites)
-- [Setup]
-- Run Optimization
-- Test Inference
-- Known Issues (if necessary)
+- [Setup]([TEMPLATE]#Setup)
+- Run Optimization([TEMPLATE]#Run Optimization)
+- Test Inference([TEMPLATE]#Test Inference)
+- Known Issues (if necessary)([TEMPLATE]#Known Issues (if necessary))
 
 ## Pre-Requisites
 - transformers>=[insert version #]
