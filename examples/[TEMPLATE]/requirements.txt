@@ -1,1 +1,13 @@
+Note: Make sure these are in alphabetical order.
 
+Common requirements include:
+- datasets
+- neural-compressor
+- onnx
+- onnxruntime
+- onnxruntime-extensions
+- onnxruntime-gpu
+- optimum
+- tabulate
+- torch
+- transformers
